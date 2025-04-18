@@ -9,28 +9,28 @@ Whether you're a solo shopper looking for the best price on a laptop or a busine
 
 ## Real-World Use Cases
 
-- ** Personal Shopper Assistant**  
+- **Personal Shopper Assistant**  
   A user sets criteria (e.g., "laptop under $500"), and the system tracks platforms like Amazon, BestBuy, and eBay, sending alerts when a deal matches.
 
-- ** SME Procurement Tool**  
+- **SME Procurement Tool**  
   Small businesses automate the hunt for bulk discounts on supplies or equipment, reducing reliance on manual searches or procurement teams.
 
-- ** Market Monitoring for Dropshipping**  
+- **Market Monitoring for Dropshipping**  
   Dropshippers receive alerts on trending products or steep discounts to gain competitive edge before the market reacts.
 
-- ** Coupon & Promo Automation**  
+- **Coupon & Promo Automation**  
   Integrates with coupon sites and discount aggregators to notify users when both a price drop *and* a coupon is available.
 
-- ** Travel Deals**  
+- **Travel Deals**  
   (Future scope) Monitor flight and hotel prices across platforms, applying Hopper-style logic with multi-agent alerts.
 
-- ** Scalper Buster**  
+- **Scalper Buster**  
   Track high-demand restocks (like GPUs, PS5s, sneakers) and notify users faster than typical shopping bots.
 
 
 ## Tech Stack
 
-- ** Modal** – Serverless deployment of agents and backend logic  
-- ** LLMs / Fine-Tuned Models** – Deployed using Hugging Face and Modal  
-- ** Multi-Agent System** – Each agent monitors a platform and reports opportunities  
-- ** Python** – Core logic and orchestration  
+- **Modal** – Serverless deployment of agents and backend logic  
+- **LLMs / Fine-Tuned Models** – Deployed using Hugging Face and Modal  
+- **Multi-Agent System** – Each agent monitors a platform and reports opportunities  
+- **Python** – Core logic and orchestration  

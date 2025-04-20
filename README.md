@@ -1,4 +1,4 @@
-# AutoDealFinder – Intelligent Agent-Based Deal Discovery
+# AutoDealFinder(An Ongoing Project) – Intelligent Agent-Based Deal Discovery
 
 ## Overview
 

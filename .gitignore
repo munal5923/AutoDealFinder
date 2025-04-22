@@ -115,8 +115,10 @@ ipython_config.py
 __pypackages__/
 
 # Datasets
-test
-train
+test.pkl
+train.pkl
+.test.pkl
+.train.pkl
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid

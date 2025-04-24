@@ -78,8 +78,9 @@ class FrontierAgent(Agent):
         documents = [match['metadata']['category'] for match in matches]
 
         prices = [match['metadata']['price'] for match in matches]
+        ## descriptions = [match['metadata']['documents'] for match in matches]
         self.log("Frontier Agent has found similar products")
-        return documents, prices
+        return documents, prices, # descriptions
 
 
     def get_price(self, s) -> float:

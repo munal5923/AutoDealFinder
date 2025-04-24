@@ -119,6 +119,10 @@ test.pkl
 train.pkl
 .test.pkl
 .train.pkl
+random_forest_model.pkl
+.random_forest_model.pkl
+ensemble_model.pkl
+.ensemble_model.pkl
 # Celery stuff
 celerybeat-schedule
 celerybeat.pid
